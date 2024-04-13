@@ -1,0 +1,11 @@
+git reset --hard id ma reset //
+//commit
+git add .
+git commit -m "dien ten"
+// log
+git log --oneline
+git log -v
+// tao nhanh:
+git checkout -b
+// xem lai nhanh :
+git checkout ' ten nhanh '
